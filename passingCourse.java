@@ -9,7 +9,7 @@ public class passingCourse {
         System.out.print("matematik notunuzu giriniz : ");
         mat = inp.nextDouble();
         if (mat>= 0 && mat<=100){
-            total = total + mat;            //total :her defasında yeni değeri ekleyerek hesaplayarak gidiyoruz :))
+            total = total + mat;            //total :her defasında yeni değeri ekleyerek gidiyoruz :))
             dersSayısı++;
         }
 
